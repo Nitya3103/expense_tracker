@@ -2,7 +2,7 @@
 
 Kharche record karne ka REST API, jisme total kisi bhi currency mein dekha ja sakta hai (live exchange rates se).
 
-**Live:** https://expense-tracker-xxxx.onrender.com/docs
+**Live:** https://expense-tracker-e2rl.onrender.com
 
 > Note: free tier par hosted hai, isliye 15 minute idle rehne ke baad service so jaati hai. Pehli request 30-50 second le sakti hai, uske baad normal speed.
 
